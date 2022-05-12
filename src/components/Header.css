@@ -1,0 +1,97 @@
+.profile-container {
+    margin: 0;
+}
+
+.header {
+    height: 300px;
+}
+
+.profile-image {
+    width: 300px;
+    border-top-right-radius: 10%;
+    border-top-left-radius: 10%;
+}
+
+.profile-bio {
+    background-color: #1a1b21;
+    padding-bottom: 32px;
+    padding-top: 20px;
+}
+
+.profile-name {
+    margin: 0;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.profile-title {
+    margin: 0;
+    color: #f3bf99;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+.profile-small {
+    margin: 0;
+    padding-top: 10px;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.profile-contacts {
+    padding-top: 22px;
+}
+
+.profile-email {
+    text-decoration: none;
+    display: inline-block;
+    align-items: center;
+    border: 1px solid #d1d5db;
+    color: #374151;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.email-logo {
+    width: 23px;
+    padding-right: 10px;
+    align-items: center;
+}
+
+.profile-email:hover,
+.profile-email:focus {
+    transform: scale(1.1);
+}
+
+.linkedin-logo {
+    width: 24px;
+    padding-right: 10px;
+    align-items: center;
+}
+
+.profile-linkedin {
+    text-decoration: none;
+    display: inline-block;
+    align-items: center;
+    border: 1px solid #d1d5db;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #297fe5;
+    color: #ffffff;
+    margin-left: 17px;
+    transition: 0.7s;
+}
+
+.profile-linkedin:hover,
+.profile-linkedin:focus {
+    background-color: #1c559b;
+    transform: scale(1.1);
+}

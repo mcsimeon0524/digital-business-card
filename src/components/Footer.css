@@ -1,0 +1,25 @@
+.profile-footer {
+    display: flex;
+    background-color: #161619;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.profile-social_media {
+    display: flex;
+    gap: 70px;
+    padding: 20px;
+}
+
+.profile-image_icons {
+    width: 30px;
+    transition: 0.7s;
+}
+
+.profile-image_icons:hover,
+.profile-image_icons:focus {
+    transform: scale(1.3);
+}
