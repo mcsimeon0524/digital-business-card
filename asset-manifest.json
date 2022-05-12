@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.38484696.css",
+    "main.js": "/digital-business-card/static/js/main.9b6346e4.js",
+    "static/media/profileimage.jpg": "/digital-business-card/static/media/profileimage.f5c7ebf0d09966efee30.jpg",
+    "static/media/LinkedIn-logo.png": "/digital-business-card/static/media/LinkedIn-logo.e76cece083fff9177feb.png",
+    "static/media/Instagram-logo.png": "/digital-business-card/static/media/Instagram-logo.0c9ad99dcda49ca629d5.png",
+    "index.html": "/digital-business-card/index.html",
+    "main.38484696.css.map": "/digital-business-card/static/css/main.38484696.css.map",
+    "main.9b6346e4.js.map": "/digital-business-card/static/js/main.9b6346e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38484696.css",
+    "static/js/main.9b6346e4.js"
+  ]
+}
